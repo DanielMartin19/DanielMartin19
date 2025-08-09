@@ -1,4 +1,3 @@
-# HELLO WORLD! I'M DANIEL MARTIN 😉
 ![Daniel Martin](img/BannerGithub.png)
 
 ## 💫 About Me:
