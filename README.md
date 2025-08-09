@@ -21,3 +21,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielMartin19&icon=5&color=0)](https://visitcount.itsvg.in)
+
+---
+
+###
+
+<img src="https://raw.githubusercontent.com/DanielMartin19/DanielMartin19/output/snake.svg" alt="Snake animation" />
+
+###
